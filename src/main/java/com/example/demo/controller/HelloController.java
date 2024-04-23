@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "hello world! from remote";
+        return "hello world! from jack";
     }
 }
