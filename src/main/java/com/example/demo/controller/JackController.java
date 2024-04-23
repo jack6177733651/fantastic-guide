@@ -8,6 +8,6 @@ public class JackController {
 
     @GetMapping("/jack")
     public String sayJack() {
-        return "jack changed";
+        return "jack changed 2";
     }
 }
